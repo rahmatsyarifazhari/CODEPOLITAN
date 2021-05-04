@@ -226,9 +226,13 @@
 	   $customer->name = 'Zack'
 
 16. $class_vars = get_class_vars('Person');
+
 	echo "<pre>";
+	
 	print_r($class_vars)
+	
 	echo "</pre>";
+
 
 	Code diatas berfungsi untuk...
 
