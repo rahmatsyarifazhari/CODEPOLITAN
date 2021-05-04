@@ -1055,7 +1055,7 @@
    |4|
    |7|
 
-   > Dalam queue diatas 8 merupakan posisi depan dan 7 posisi belakang. Jika kita ingin melakukan operasi **Enqueue** atau menambahkan elemen kedalam queue. Kita akan menambahkan elemen bernilai 6, maka pada posisi belakang sekarang bernilai...
+Dalam queue diatas 8 merupakan posisi depan dan 7 posisi belakang. Jika kita ingin melakukan operasi **Enqueue** atau menambahkan elemen kedalam queue. Kita akan menambahkan elemen bernilai 6, maka pada posisi belakang sekarang bernilai...
  
    **A. 6** 
  
