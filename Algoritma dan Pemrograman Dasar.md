@@ -1023,7 +1023,7 @@
    |4|
    |7|
 
-   > Dalam stack diatas 8 merupakan top elemen. Jika kita ingin melakukan operasi pop() pada stack diatas maka angka yang hilang adalah...
+   Dalam stack diatas 8 merupakan top elemen. Jika kita ingin melakukan operasi pop() pada stack diatas maka angka yang hilang adalah...
  
    A. 4
  
